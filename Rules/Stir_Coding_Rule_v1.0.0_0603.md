@@ -1,10 +1,13 @@
 # Stir Coding Rule
 
 Created at: June 1, 2022 10:40 PM
+
 Created by: Berta
+
 Language: English, Japanese
-Tag: Engineer
+
 Reference1: https://realpython.com/python-pep8/
+
 Reference2: https://qiita.com/naomi7325/items/4eb1d2a40277361e898b
 
 # English
