@@ -2,8 +2,6 @@
 
 Created at: June 1, 2022 10:40 PM
 
-Created by: Berta
-
 Language: English, Japanese
 
 Reference1: https://realpython.com/python-pep8/
