@@ -10,14 +10,6 @@ Reference2: https://qiita.com/naomi7325/items/4eb1d2a40277361e898b
 
 # English
 
-## Why do we need this?
-
-Consistency of naming and commenting style will make readable code and ensure maintainability.
-
-We will use PEP8 for python standard and also use part of SET coding standard in Stir.
-
-SET coding standard is from Conestoga College which resides in Ontario, Canada.
-
 ## Source Code Commenting
 
 Source code commenting is done through Header Comments and Inline Comments.
@@ -160,12 +152,6 @@ O = 2  # This may look like you're trying to reassign 2 to zero
 ```
 
 # 日本語
-
-## なぜ必要か
-
-命名規則やコメントのルール決めをしておくことによって可読性や保守性を確保するため。
-
-StirではPythonはPEP8基準に加え、SETのコーディングルールを一部適用しています。
 
 ## ソースコードのコメント
 
